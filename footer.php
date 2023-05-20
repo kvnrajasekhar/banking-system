@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <link rel="stylesheet" href="footerstyle.css"> -->
     <style>
-        footer{
+        footer {
             background: burlywood;
             padding: 30px 0px;
             font-family: 'Play', sans-serif;
@@ -17,7 +17,8 @@
             display: flex;
             justify-content: center;
         }
-        .footer-home{
+
+        .footer-home {
             display: flex;
             justify-content: center;
             text-decoration: none;
@@ -32,7 +33,9 @@
 
         </div>
         <div class="footer-home">
-                <a class="  nav-link" href="nbibank.php">Home <span class="sr-only">(current)</span></a>
-            </div>
+            <a class="  nav-link" href="nbibank.php">Home <span class="sr-only">(current)</span></a>
+        </div>
     </footer>
 </body>
+
+</html>
